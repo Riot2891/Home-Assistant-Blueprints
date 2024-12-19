@@ -36,7 +36,7 @@ blueprint:
          max: 100
          step: 1
          mode: slider
-  source_url: 
+  source_url: https://github.com/Riot2891/Home-Assistant-Blueprints/blob/main/TRVZB%20Offset
 variables:
   thermostat_value: !input thermostat_value
   thermostat_offset: !input thermostat_offset
